@@ -3,6 +3,9 @@
 
 Instructions for adding this repo:
 
+Mirror addon
+Chucky addon
+Anonymous subtitle and more stuf
 
 <p align="left">
   <ul>
