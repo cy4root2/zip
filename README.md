@@ -5,7 +5,7 @@ Mirror addon
 
 Chucky addon
 
-Subtitles Annymous
+Subtitles Anonymous
 
 and more stuf..
 
