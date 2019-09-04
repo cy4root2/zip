@@ -1,11 +1,20 @@
 # Cy4root Repository addon
 ## Current Version: Master
 
+Mirror addon
+
+Chucky addon
+
+Subtitles Annymous
+
+and more stuf..
+
+
+
+
 Instructions for adding this repo:
 
-Mirror addon
-Chucky addon
-Anonymous subtitle and more stuf
+
 
 <p align="left">
   <ul>
