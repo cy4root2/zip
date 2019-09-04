@@ -8,7 +8,7 @@ Instructions for adding this repo:
   <ul>
     <li>Go to the Kodi file manager.</li>
     <li>Click on "Add source"</li>
-    <li>The path for the source is <code>https://cy4root.github.io/</code> (Give it the name "Cy4root Repo").</li>
+    <li>The path for the source is <code>https://cy4root.github.io/</code> Give it the name "Cy4root Repo".</li>
     <li>Go to "Addons"</li>
     <li>In Addons, install an addon from zip.  When it asks for the location, select "cy4root Repo", and install <a href="repository.cy4root-master.zip">repository.cy4root-master.zip</a>.</li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
