@@ -5,6 +5,10 @@ Mirror addon
 
 Chucky addon
 
+Laplaza (Placenta fork)
+
+LiptonModule (scrapers)
+
 Subtitles Anonymous
 
 and more stuf..
