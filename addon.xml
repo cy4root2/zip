@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.cy4root" name="cy4root Repository" version="1.0.1" provider-name="Cy4Root">
+	<extension point="xbmc.addon.repository" name="Cy4Root">
+
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/cy4root2/plugins/master/addons.xml</info>
+            		<checksum>https://raw.githubusercontent.com/cy4root2/plugins/master/addon.xml.md5</checksum>
+            		<datadir zip="true">https://raw.githubusercontent.com/cy4root2/plugins/master</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/covenant01/plugins/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/covenant01/plugins/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/covenant01/plugins/master</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+
+   		<dir>
+                	<info compressed="false">https://repo.orionoid.com/addons.xml?v=3.3.0</info>
+                	<checksum>https://repo.orionoid.com/addons.xml.md5?v=3.3.0</checksum>
+                	<datadir zip="true">https://repo.orionoid.com</datadir>
+            	</dir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Cy4Root Add-on Repository</summary>
+        <description lang="en"></description>
+        <platform>all</platform>
+		<news>Cleaned Repo 2019-12-20 Original Dev</news>
+    </extension>
+</addon>
