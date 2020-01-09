@@ -19,6 +19,10 @@ Clowns Replica Addon
 
 SportDevil Addon
 
+TV-Tap
+
+Lola-TV
+
 SportOwa Addon
 
 Subtitles
