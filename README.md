@@ -1,9 +1,31 @@
 # Cy4root  New Repository 
 ## Current Version: Master
 
+
+
+MirrorV2 addon
+
+Chucky Addon
+
+Laplaza Addon
+
+Covenant Addon
+
+Uranus Addon
+
+Descent Addon (new)
+
+Clowns Replica Addon
+
+SportDevil Addon
+
+SportOwa Addon
+
+Subtitles
+
+and more stuf..
+
 Instructions for adding this repo:
-
-
 
 <p align="left">
   <ul>
