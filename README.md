@@ -9,11 +9,11 @@ Chucky Addon
 
 Laplaza Addon
 
-Covenant Addon
+Covenant Addon 
 
 Uranus Addon
 
-Descent Addon (new)
+SportZig
 
 Clowns Replica Addon
 
@@ -23,7 +23,6 @@ TV-Tap
 
 Lola-TV
 
-SportOwa Addon
 
 Subtitles
 
