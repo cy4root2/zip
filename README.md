@@ -25,10 +25,11 @@ Lola-TV
 
 Swift-streams
 
-
 Subtitles
 
 and more stuf..
+
+There is no TVA stuff here!!!
 
 Instructions for adding this repo:
 
