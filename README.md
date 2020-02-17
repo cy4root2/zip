@@ -11,6 +11,8 @@ Laplaza Addon
 
 Covenant Addon 
 
+Descent Addon (renew)
+
 Uranus Addon
 
 SportZig
