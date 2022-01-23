@@ -1,6 +1,8 @@
 # Cy4root  original Repository 
 ## Current Version: Master
 
+This repository currently only works on kodi 18
+
 
 
 MirrorV2 addon
